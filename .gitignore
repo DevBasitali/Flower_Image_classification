@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Uploaded files and images
+upload/
+Images/
+
+# Model files
+FlowerRecog.h5
+FlowerRecog.index
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
